@@ -29,7 +29,7 @@ The notebooks use some custom functions which are located in the folder
 `customslib`. To alter the code it is useful to use an IDE like
 [PyCharm](https://www.jetbrains.com/pycharm/) for it.
 
-## Ressources
+## Resources
 
 The code for this repo is partially taken and inspired from the following sources:
 
