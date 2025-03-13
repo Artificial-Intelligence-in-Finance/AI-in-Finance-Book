@@ -8,7 +8,8 @@ This repository is the official resource hub for the book *Artificial Intelligen
 
 ## 📘 About the Book
 
-*Artificial Intelligence in Finance: Volume 1* explores the impact of AI in the financial domain, with topics including:
+
+*[Artificial Intelligence in Finance: Volume 1](https://www.riskbooks.com/artificial-intelligence-in-finance-volume-1-fundamentals-and-applications)* explores the impact of AI in the financial domain, with topics including:
 
 - **Supervised and Unsupervised Learning**: Techniques for classification, regression, clustering, and dimensionality reduction.
 - **Artificial Neural Networks (ANNs)**: From basic architectures to advanced models like Transformers and graph networks.
