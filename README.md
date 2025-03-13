@@ -2,6 +2,8 @@
 
 This repository is the official resource hub for the book *Artificial Intelligence in Finance: Volume 1 - Fundamentals and Applications* by Miquel Noguer i Alonso, Daniel Bloch, and David Pacheco Aznar. The book demystifies the role of artificial intelligence in finance, offering theoretical foundations and practical applications to equip professionals and academics with actionable knowledge.
 
+**Special Thanks To Nicole Königstein and Asier Gutiérrez-Fandiño & Jordi Armengol-Estapé.**
+
 ---
 
 ## 📘 About the Book
