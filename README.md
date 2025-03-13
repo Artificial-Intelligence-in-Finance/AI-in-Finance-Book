@@ -1,40 +1,75 @@
-# AI-in-Finance-Book
+# Artificial Intelligence in Finance Book
 
-Volume 1 of the AI in Finance Book
+This repository is the official resource hub for the book *Artificial Intelligence in Finance: Volume 1 - Fundamentals and Applications* by Miquel Noguer i Alonso, Daniel Bloch, and David Pacheco Aznar. The book demystifies the role of artificial intelligence in finance, offering theoretical foundations and practical applications to equip professionals and academics with actionable knowledge.
 
-# aifi_bootcamp
+---
 
-![](resources/AIFI_logo.png)
+## 📘 About the Book
 
-This is the repository for the Python and coding sessions at [AIFI bootcamp](https://www.aifinanceinstitute.com/-Bootcamp).
+*Artificial Intelligence in Finance: Volume 1* explores the impact of AI in the financial domain, with topics including:
 
-## Getting started
+- **Supervised and Unsupervised Learning**: Techniques for classification, regression, clustering, and dimensionality reduction.
+- **Artificial Neural Networks (ANNs)**: From basic architectures to advanced models like Transformers and graph networks.
+- **Natural Language Processing (NLP)**: Applications in sentiment analysis, financial document processing, and contextual embedding models.
+- **Financial Engineering**: Combining AI with traditional methods for portfolio management, option pricing, and risk management.
+- **AI in Finance Framework**: Addressing challenges in data modeling, feature engineering, and model explainability.
 
-The easiest way to use the code of this repo is to install [miniconda](https://docs.conda.io/en/latest/miniconda.html).
-In the repo is a bash script `install_venv.sh` prepared for you to easily install the needed libraries.
-However, before you can run this script, you need to make it executable. You can do that by running the command
-`chmod +x install_venv.sh` in your terminal.
-After that, you can run the script by typing `./install_venv.sh` into your terminal.
+---
 
-## Using the Jupyter Notebooks
+## 📂 Repository Contents
 
-To use the notebooks, you can use your IDE's terminal or the terminal of your choice on
-your computer. Just navigate to the repos folder start the  
-virtual environment with `conda activate` and then use `jupyter notebooks` to start the server for
-the Jupyter Notebooks.
+This repository includes:
 
-## Using PyCharm as IDE
+- **Code Examples**: Practical implementations of concepts discussed in the book.
+- **Datasets**: Sample datasets to experiment with financial AI models.
+- **Notebooks**: Jupyter notebooks for hands-on learning.
+- **Supplementary Materials**: References, links, and additional resources.
 
-The notebooks use some custom functions which are located in the folder
-`customslib`. To alter the code it is useful to use an IDE like
-[PyCharm](https://www.jetbrains.com/pycharm/) for it.
+---
 
-## Resources
+## 🚀 How to Get Started
 
-The code for this repo is partially taken and inspired from the following sources:
+1. Clone the repository:
+ ```bash
+ git clone https://github.com/Artificial-Intelligence-in-Finance/AI-in-Finance-Book.git
+ ```
 
-- [Artificial Intelligence in Finance A Python-Based Guide](https://www.oreilly.com/library/view/artificial-intelligence-in/9781492055426/)
-- [Machine Learning and Data Science Blueprints for Finance From Building Trading Strategies to Robo-Advisors Using Python](https://www.oreilly.com/library/view/machine-learning-and/9781492073048/)
-- [Python for Algorithmic Trading From Idea to Cloud Deployment](https://www.oreilly.com/library/view/python-for-algorithmic/9781492053347/)
-- [Machine Learning for Financial Risk Management with Python Algorithms for Modeling Risk](https://www.oreilly.com/library/view/machine-learning-for/9781492085249/)
-- [Machine Learning for Economics and Finance in TensorFlow 2](https://link.springer.com/book/10.1007/978-1-4842-6373-0)
+2. Navigate to the relevant section of the repository for the topic you're exploring.
+
+3. Use the provided Jupyter notebooks or Python scripts to run experiments and understand the concepts.
+
+## 🛠 Prerequisites
+To run the examples in this repository, ensure you have the following installed:
+
+- Python 3.8 or later
+- Required libraries (install via requirements.txt):
+```bash
+pip install -r requirements.txt
+```
+
+## 📌 Topics Covered
+
+- AI Basics: Definitions, history, and fields of AI.
+
+- Data Science in Finance: Handling datasets, sparsity, and feature engineering.
+
+- Machine Learning Models: k-NN, SVM, Decision Trees, XGBoost, and more.
+
+- Neural Networks: RNNs, LSTMs, N-BEATS, Transformers.
+
+- NLP in Finance: Sentiment analysis, embeddings, and sequence modeling.
+
+- Financial Applications: Risk management, portfolio optimization, and high-frequency trading.
+
+
+## 📚 Learn More
+
+Explore Volume 2 for advanced AI topics, including reinforcement learning and deep reinforcement learning applications.
+
+## 🤝 Contributions
+Contributions are welcome! If you find an issue or have a suggestion, please create a pull request or open an issue in the repository.
+
+📝 License
+This repository is licensed under the MIT License.
+
+Happy coding and learning! 🚀
