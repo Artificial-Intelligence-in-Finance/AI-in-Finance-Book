@@ -73,6 +73,6 @@ Explore Volume 2 for advanced AI topics, including reinforcement learning and de
 Contributions are welcome! If you find an issue or have a suggestion, please create a pull request or open an issue in the repository.
 
 📝 License
-This repository is licensed under the MIT License.
+This repository is licensed under the Apache 2.0 License. FINEAS is under MIT License.
 
 Happy coding and learning! 🚀
